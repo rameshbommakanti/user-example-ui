@@ -1,0 +1,10 @@
+table {
+  width: 100%;
+}
+
+.user-align-right{
+  /* align-content: right; */
+  float: right;
+}
+
+
